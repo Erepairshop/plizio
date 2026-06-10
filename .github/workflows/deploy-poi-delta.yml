@@ -127,6 +127,11 @@ jobs:
 
       - name: Generate targeted POI HTMLs into a staging out/
         if: github.event.inputs.poi_ids != 'none'
+        env:
+          # generate-poi-html loads the full V2 POI set (~45k) + image-index (~62k)
+          # → default 4GB heap OOMs (Mark-Compact death) before emitting any HTML.
+          # Match the full build's headroom.
+          NODE_OPTIONS: --max-old-space-size=16384
         run: |
           mkdir -p out_delta
           # Use tsx (in node_modules) — works on Node 20, no --experimental-strip-types needed.
